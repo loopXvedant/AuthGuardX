@@ -1,0 +1,5 @@
+AuthGuardX is an educational and ethical password auditing toolkit.
+This tool is designed ONLY for learning, simulation, and controlled lab environments.
+Unauthorized use on real systems is illegal.
+
+The developer is not responsible for misuse of this software.

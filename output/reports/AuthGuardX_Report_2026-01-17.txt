@@ -1,0 +1,29 @@
+====================================
+      SECURITY AUDIT REPORT
+====================================
+
+Project Name: AuthGuardX – Password Security Audit Toolkit
+Author: vedant
+Date: 2026-01-17
+
+1. Introduction
+This project demonstrates password attack simulations and security auditing.
+
+2. Modules Implemented
+- Dictionary Generator: yes
+- Password Strength Analyzer: yes
+- Brute Force Simulator: yes
+- Hash Type Identifier: yes
+
+3. Observations
+Weak passwords are easily guessable.
+Strong passwords have higher entropy and complexity.
+Brute force attacks take time depending on complexity.
+
+4. Conclusion
+Strong password policies and secure hashing are essential.
+
+5. Future Scope
+- Add real-time monitoring
+- Integrate with SIEM
+- Add GUI
